@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: simple-nodejs-app
     app.kubernetes.io/part-of: nodejs-users
-  name: simple-nodejs-appmime
+  name: simple-nodejs-app5s3w
 spec:
   path: /
   port:
